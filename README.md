@@ -13,6 +13,10 @@ A full song built from picked riffs, rendered and mastered with this tool:
 
 ![system diagram](docs/system_diagram.png)
 
+https://github.com/user-attachments/assets/48d23308-ef97-4e31-b47b-c5dc943a85f3
+
+
+
 ## Concept
 
 Fully automatic song generation sounds monotone. riff2song is built around a different loop:
