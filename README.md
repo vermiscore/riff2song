@@ -1,6 +1,6 @@
 # riff2song
 
-Generate deathcore riffs, rate them, and grow the good ones into full songs, rendered with real DI samples
+Generate metal riffs, rate them, and grow the good ones into full songs, rendered with real DI samples
 and amp captures.
 
 > Status: demo / personal research tool. It works, but it expects you to bring your own data
