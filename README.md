@@ -6,6 +6,11 @@ and amp captures.
 > Status: demo / personal research tool. It works, but it expects you to bring your own data
 > (reference tabs, the DadaGP dataset) and to spend time rating riffs.
 
+## Demo
+
+A full song built from picked riffs, rendered and mastered with this tool:
+**[listen (Releases)](https://github.com/vermiscore/riff2song/releases)** - `riff2song_demo.mp3`
+
 ![system diagram](docs/system_diagram.png)
 
 ## Concept
