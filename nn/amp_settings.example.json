@@ -1,0 +1,12 @@
+{
+ "post_eq": {"hpf": 100, "mud_hz": 400, "mud_db": -3.0, "lpf": 10000},
+ "render": {
+  "di": "samples/UI_METAL-GTX",
+  "bass_di": "samples/Ui_Standard_Bass_V2",
+  "nam": "samples/6534/your_amp_capture.nam",
+  "nam_pre": "samples/od808/OD808_6505+.nam",
+  "ir": "samples/ir_peavey/412MS_SHF_mix_57+57.wav",
+  "gate": -45,
+  "tight": 150
+ }
+}

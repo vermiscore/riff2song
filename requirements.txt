@@ -1,0 +1,8 @@
+numpy
+scipy
+mido
+PyGuitarPro
+torch
+muspy
+soundfile
+# NAM and Matchering go into their own venv (nn/venv_nam), see README
